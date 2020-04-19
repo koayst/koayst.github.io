@@ -17,7 +17,7 @@
 
 ---
 
-### Republic Ploytechnic
+### Republic Polytechnic (Tech Immersion and Placement Programme - Intake 1 2020)
 
 - [Capstone Project](http://example.com/)
 - [Project 2 Title](http://example.com/)
