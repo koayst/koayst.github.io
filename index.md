@@ -19,6 +19,7 @@ An attempt to challenges the loan prediction problem at Analytics Vidhya web sit
 (6 January to 17 April 2020)
 
 - [Capstone Project](https://github.com/koayst/rp_capstone)
+This project is a collaboration between Nvidia and Republic Polytechnic (RP). The goal of this project is to provide an annotation tool, to differentiate key takeaways in a corpus of text. The summarisation technique will be powered by Bidirectional Encoder Representations from Transformers (BERT) models.
 - [Machine Learning](https://github.com/koayst/rp_machine_learning)
 - [Deep Learning](https://github.com/koayst/rp_deep_learning)
 - [Computer Vision](https://github.com/koayst/rp_computer_vision)
