@@ -28,10 +28,5 @@ Tech Immersion and Placement Programme - Intake 1
 - [Natural Language Processing](https://github.com/koayst/rp_nlp)
 
 ---
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
