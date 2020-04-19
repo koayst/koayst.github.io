@@ -22,9 +22,17 @@ An attempt to challenges the loan prediction problem at Analytics Vidhya web sit
 <br>
 This project is a collaboration between Nvidia and Republic Polytechnic (RP). The goal of this project is to provide an annotation tool, to differentiate key takeaways in a corpus of text. The summarisation technique will be powered by Bidirectional Encoder Representations from Transformers (BERT) models.
 - [Machine Learning](https://github.com/koayst/rp_machine_learning)
+<br>
+Analysis and deliver a model based on the popular XGBosst algorithm. The model is then hosted on a Flash server and user can access the prediction application either via mobile or desktop web browser.
 - [Deep Learning](https://github.com/koayst/rp_deep_learning)
+<br>
+Perform deep learning technique to analyse Sonar mines dataset (from UCI repository). Exploratory data analysis was performed leading to the model generation using Tensorflow and Keras APIs. Another problem is to derive a model based on LSTM technique to predict whether the room has any existence of human activities.  Time-shifting technique was explored and performed. 
 - [Computer Vision](https://github.com/koayst/rp_computer_vision)
+<br>
+Analysis and predict the species of bird. The challenge was that the dataset was limited and noisy.
 - [Natural Language Processing](https://github.com/koayst/rp_nlp)
+<br>
+Compare two algorithms, Latent Dirichlet Allocation Analysis (LDA) and Non-Negative Matrix Factorization (NMF) for topic modelling and evaluate the outcomes of the alogithm.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
