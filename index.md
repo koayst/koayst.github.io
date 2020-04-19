@@ -17,7 +17,6 @@
 
 ---
 <img src="images/rplogo_small.png?raw=true"/>
-<br>
 **Tech Immersion and Placement Programme (TIPP)**
 <br>
 (6 January to 17 April 2020)
