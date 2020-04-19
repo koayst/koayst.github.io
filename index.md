@@ -23,7 +23,7 @@ An attempt to challenges the loan prediction problem at Analytics Vidhya web sit
 This project was a collaboration between Nvidia and Republic Polytechnic (RP). The goal of this project is to provide an annotation tool, to differentiate key takeaways in a corpus of text. The summarisation technique will be powered by a Bidirectional Encoder Representations from Transformers (BERT) model.
 - [Machine Learning](https://github.com/koayst/rp_machine_learning)
 <br>
-Analysis and deliver a model based on the popular XGBoost algorithm. The model is then hosted on a Flask server and user can access the prediction application either via mobile or desktop web browser.
+Analysis and deliver a model based on the popular XGBoost algorithm. The model is then hosted on a Flask server and user is able to access the prediction application either via a mobile or a desktop web browser.
 - [Deep Learning](https://github.com/koayst/rp_deep_learning)
 <br>
 Perform deep learning technique to analyse Sonar mines dataset (from UCI repository). Exploratory data analysis was performed leading to the model generation using Tensorflow and Keras APIs. Another problem is to derive a model based on LSTM technique to predict whether the room has any existence of human activities.  Time-shifting technique was explored and performed. 
