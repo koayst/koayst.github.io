@@ -16,7 +16,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
+<img src="images/rplogo_small.png?raw=true"/>
 ### Republic Polytechnic 
 Tech Immersion and Placement Programme - Intake 1
 (6 January to 17 April 2020)
