@@ -5,12 +5,12 @@
 ### Machine Learning 
 
 [Pima Indians Diabetes Analysis Using PyCaret](https://github.com/koayst/pycaret_pima-indians-diabetes)
-<br/>
+<br>
 PyCaret, an open source low-code machine learning library in Python, was announced on 16 April 2020. It promises to be an alternate low-code library that can be used to replace hundreds of lines of code with few words only. This makes experiments exponentially fast and efficient.
 
 ---
 [Analytics Vidhya Challenges - Loan Prediction](https://github.com/koayst/analytics_vidhya_loan_prediction)
-</br>
+<br>
 An attempt to challenges the loan prediction problem at Analytics Vidhya web site.  First I will use the traditional machine learning library (scikit-learn) to model the loan application.  Then, with a new tool launched, I will attempt to use PyCaret to quickly model the loan application.  Indeed, PyCaret was easy to use and the result, upon submission, beat the predictions from the traditional method.
 
 ---
