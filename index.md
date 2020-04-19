@@ -16,9 +16,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-<img src="images/rplogo_small.png?raw=true"/>
-### Republic Polytechnic 
-Tech Immersion and Placement Programme - Intake 1
+<img src="images/rplogo_small.png?raw=true"/> 
+Tech Immersion and Placement Programme (TIPP)
 (6 January to 17 April 2020)
 
 - [Capstone Project](https://github.com/koayst/rp_capstone)
