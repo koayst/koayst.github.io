@@ -17,13 +17,15 @@
 
 ---
 
-### Republic Polytechnic (Tech Immersion and Placement Programme - Intake 1 2020)
+### Republic Polytechnic 
+Tech Immersion and Placement Programme - Intake 1
+(6 January to 17 April 2020)
 
-- [Capstone Project](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Capstone Project](https://github.com/koayst/rp_capstone)
+- [Machine Learning](https://github.com/koayst/rp_machine_learning)
+- [Deep Learning](https://github.com/koayst/rp_deep_learning)
+- [Computer Vision](https://github.com/koayst/rp_computer_vision)
+- [Natural Language Processing](https://github.com/koayst/rp_nlp)
 
 ---
 
