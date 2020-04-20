@@ -36,7 +36,6 @@ Compare two algorithms, Latent Dirichlet Allocation Analysis (LDA) and Non-Negat
 
 ---
 <img src="images/arduino_logo.png?raw=true"/>
-<br/>
 - [Line Tracing Motorised Vehicle](https://github.com/koayst/arduino_line_tracing)
 <br>
 This documents the work done for the STEM training I conducted for students (Primary and Secondary Schools) who were building line tracing motorised vehicle.  Check out the videos first.
