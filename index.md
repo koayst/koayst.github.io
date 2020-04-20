@@ -27,9 +27,11 @@ Analysis and deliver a model based on the popular XGBoost algorithm. The model i
 - [Deep Learning](https://github.com/koayst/rp_deep_learning)
 <br>
 Perform deep learning technique to analyse Sonar mines dataset (from UCI repository). Exploratory data analysis was performed leading to the model generation using Tensorflow and Keras APIs. Another problem is to derive a model based on LSTM technique to predict whether the room has any existence of human activities.  Time-shifting technique was explored and performed. 
+
 - [Computer Vision](https://github.com/koayst/rp_computer_vision)
 <br>
 Analysis and predict the species of bird. The challenge was that the dataset was limited and noisy.
+
 - [Natural Language Processing](https://github.com/koayst/rp_nlp)
 <br>
 Compare two algorithms, Latent Dirichlet Allocation Analysis (LDA) and Non-Negative Matrix Factorization (NMF) for topic modelling and evaluate the outcomes of the alogithm.
