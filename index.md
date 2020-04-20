@@ -35,7 +35,7 @@ Perform deep learning technique to analyse Sonar mines dataset (from UCI reposit
 ---
 [Computer Vision](https://github.com/koayst/rp_computer_vision)
 <br>
-Analysis and predict the species of bird. The challenge was that the dataset was limited and noisy.
+Helps bird watchers identify bird species found in Singapore.  Tranfer learning using VGG16 model was deployed. The challenge was that the dataset was limited, imbalanced and noisy.
 
 ---
 [Natural Language Processing](https://github.com/koayst/rp_nlp)
