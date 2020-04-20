@@ -1,7 +1,6 @@
 ## Portfolio
-sengtian@yahoo.com
----
 
+---
 ### Machine Learning 
 
 [Pima Indians Diabetes Analysis Using PyCaret](https://github.com/koayst/pycaret_pima-indians-diabetes)
